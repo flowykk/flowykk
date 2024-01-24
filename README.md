@@ -7,8 +7,7 @@
 # 💻 Tech Stack:
 
 ## Design
-
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,figma,canva,blender&theme=light)]
+![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,figma,canva,blender&theme=light)
 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) 
