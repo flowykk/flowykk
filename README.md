@@ -33,7 +33,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=flowykk&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=flowykk&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=flowykk&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="flowykk"></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flowykk&show_icons=true&locale=en&layout=compact" alt="flowykk" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=flowykk&show_icons=true&locale=en" alt="flowykk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flowykk&" alt="flowykk" /></p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=flowykk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
