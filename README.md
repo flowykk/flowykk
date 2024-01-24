@@ -12,11 +12,13 @@
 ### Tools
 ![My Skills](https://skillicons.dev/icons?i=cmake,git,github,gitlab,gradle&theme=light)
 
+![My Skills](https://skillicons.dev/icons?i=matlab,octave&theme=light)
+
 ### Design
 ![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,figma,blender&theme=light)
 
 ### Other
-![My Skills](https://skillicons.dev/icons?i=mysql,postgres,postman,matlab,octave,md&theme=light)
+![My Skills](https://skillicons.dev/icons?i=mysql,postgres,postman,md&theme=light)
 
 ![My Skills](https://skillicons.dev/icons?i=css,html&theme=light)
 
