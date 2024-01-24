@@ -29,12 +29,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=flowykk&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=flowykk&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=flowykk&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flowykk&theme=radical&hide_border=true&show_icons=true&locale=en&layout=compact" alt="flowykk" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flowykk&theme=radical&hide_border=true&locale=en&layout=compact" alt="flowykk" /></p>
 
 
