@@ -7,19 +7,20 @@
 ## 💻 Tech Stack
 
 ### Languages
-![My Skills](https://skillicons.dev/icons?i=cs,cpp,java,js,kotlin,py,swift&theme=light)
+![My Skills](https://skillicons.dev/icons?i=cs,cpp,swift,kotlin,py,java,js&theme=light)
 
 ### Tools
 ![My Skills](https://skillicons.dev/icons?i=cmake,git,github,gitlab,gradle&theme=light)
-
-![My Skills](https://skillicons.dev/icons?i=css,html&theme=light)
 
 ### Design
 ![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,figma,blender&theme=light)
 
 ### Other
-![My Skills](https://skillicons.dev/icons?i=md,mysql,postgres,postman,matlab,octave&theme=light)
-![My Skills](https://skillicons.dev/icons?i=bootstrap,dotnet,flask&theme=light)
+![My Skills](https://skillicons.dev/icons?i=mysql,postgres,postman,matlab,octave,md&theme=light)
+
+![My Skills](https://skillicons.dev/icons?i=css,html&theme=light)
+
+![My Skills](https://skillicons.dev/icons?i=dotnet,flask,bootstrap&theme=light)
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flowykk&theme=radical&hide_border=true&show_icons=true&locale=en&layout=compact" alt="flowykk" /></p>
