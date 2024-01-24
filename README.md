@@ -22,11 +22,11 @@
 ![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,figma,blender&theme=light)
 
 ### Other
+![My Skills](https://skillicons.dev/icons?i=dotnet,flask,bootstrap&theme=light)
+
 ![My Skills](https://skillicons.dev/icons?i=mysql,postgres,postman,md&theme=light)
 
 ![My Skills](https://skillicons.dev/icons?i=css,html&theme=light)
-
-![My Skills](https://skillicons.dev/icons?i=dotnet,flask,bootstrap&theme=light)
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flowykk&theme=radical&hide_border=true&show_icons=true&locale=en&layout=compact" alt="flowykk" /></p>
