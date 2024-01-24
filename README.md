@@ -5,6 +5,12 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%23E4405F.svg?logo=Telegram&logoColor=blue)](https://telegram.com/flowykk) 
 
 # 💻 Tech Stack:
+
+## Design
+
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,figma,canva,blender&theme=light)]
+
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
