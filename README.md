@@ -10,7 +10,8 @@
 ![My Skills](https://skillicons.dev/icons?i=cs,cpp,java,js,kotlin,py,swift&theme=light)
 
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=cmake,git,github,gitlab,gradle,&theme=light)
+![My Skills](https://skillicons.dev/icons?i=cmake,git,github,gitlab,gradle&theme=light)
+
 ![My Skills](https://skillicons.dev/icons?i=css,html&theme=light)
 
 ### Design
