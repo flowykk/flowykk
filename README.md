@@ -4,10 +4,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flowykk) 
 [![Telegram](https://img.shields.io/badge/Telegram-%23E4405F.svg?logo=Telegram&logoColor=blue)](https://telegram.com/flowykk) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
-## Design
-![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,figma,canva,blender&theme=light)
+### Languages
+![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,figma,blender&theme=light)
+
+
+### Design
+![My Skills](https://skillicons.dev/icons?i=cs,cpp,java,js,kotlin,matlab,py,swift&theme=light)
 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) 
