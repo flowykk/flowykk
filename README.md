@@ -3,7 +3,7 @@
 ## 🌐 My socials
 [![Instagram Badge](https://img.shields.io/badge/-flowykk-orange?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/flowykk)
 [![Youtube Badge](https://img.shields.io/badge/-flowy-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://youtube.com/@flowy3681?si=aPMy0FHEv8v_1-Pa)
-[![Gmail Badge](https://img.shields.io/badge/-flowykk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:cristgames123@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dd.rakhmanov@yandex.ru-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dd.rakhmanov@yandex.ru)](mailto:dd.rakhmanov@yandex.ru)
 [![Telegram Badge](https://img.shields.io/badge/-flowykk-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://flowykk.t.me/)](https://flowykk.t.me/)
 
 
