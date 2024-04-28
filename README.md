@@ -11,7 +11,7 @@
 ## 💻 Tech Stack
 
 ### Languages
-![My Skills](https://skillicons.dev/icons?i=cs,cpp,swift,kotlin,java,py,js&theme=light)
+![My Skills](https://skillicons.dev/icons?i=swift,kotlin,cs,cpp,java,py,js&theme=light)
 
 ### Tools
 ![My Skills](https://skillicons.dev/icons?i=cmake,git,github,gitlab,gradle&theme=light)
