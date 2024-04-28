@@ -14,7 +14,7 @@
 ![My Skills](https://skillicons.dev/icons?i=swift,kotlin,cs,cpp,java,py,js&theme=light)
 
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=cmake,git,github,gitlab,gradle&theme=light)
+![My Skills](https://skillicons.dev/icons?i=cmake,git,github,gitlab,gradle,mysql,postgres,docker&theme=light)
 
 ![My Skills](https://skillicons.dev/icons?i=matlab,octave&theme=light)
 
@@ -24,9 +24,7 @@
 ### Other
 ![My Skills](https://skillicons.dev/icons?i=dotnet,flask,bootstrap&theme=light)
 
-![My Skills](https://skillicons.dev/icons?i=mysql,postgres,postman,md&theme=light)
-
-![My Skills](https://skillicons.dev/icons?i=css,html&theme=light)
+![My Skills](https://skillicons.dev/icons?i=postman,md&theme=light)
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flowykk&theme=radical&hide_border=true&show_icons=true&locale=en&layout=compact" alt="flowykk" /></p>
