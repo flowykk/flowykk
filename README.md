@@ -14,7 +14,7 @@
 ![My Skills](https://skillicons.dev/icons?i=swift,kotlin,cs,cpp,java,py,js&theme=light)
 
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=cmake,git,github,gitlab&theme=light)
+![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)
 
 ![My Skills](https://skillicons.dev/icons?i=gradle,mysql,postgres,docker&theme=light)
 
