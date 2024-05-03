@@ -14,14 +14,14 @@
 ![My Skills](https://skillicons.dev/icons?i=swift,kotlin,cs,cpp,java,py,js&theme=light)
 
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)
+![My Skills](https://skillicons.dev/icons?i=github,gitlab,git&theme=light)
 
-![My Skills](https://skillicons.dev/icons?i=gradle,mysql,postgres,docker&theme=light)
+![My Skills](https://skillicons.dev/icons?i=mysql,postgres,docker,gradle&theme=light)
 
 ![My Skills](https://skillicons.dev/icons?i=matlab,octave&theme=light)
 
 ### Design
-![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,figma,blender&theme=light)
+![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,ae,blender&theme=light)
 
 ### Other
 ![My Skills](https://skillicons.dev/icons?i=dotnet,flask,bootstrap&theme=light)
